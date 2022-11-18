@@ -1,6 +1,6 @@
 # Tarefa-Logica-Do-Jogo
 
-**Lógica:**
+##**Lógica:**
 - Para vencer é necessário derrotar 6 inimigos no primeiro estágio e depois derrotar o chefão com 10 acertos de teia
 - Para chegar ao game over é necessário perder 3 vidas, que podem ser retiradas nas seguintes situações:
    * Inimigos comuns chegam à borda esquerda da tela (-1 de vida)
